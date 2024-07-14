@@ -16,4 +16,5 @@ Gemnini / Gemma
 "https://gamma.app/embed/eesdrudx1mphubk"
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Uma forma interessante de criar e elaborar apresentações para um projeto. 
+Certeza que utilizarei mais vezes e aprimorarei as utilizações para ele. 
